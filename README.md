@@ -7,6 +7,7 @@ I've been working with **Godot** since version 4.0, mosty doing game jams and ex
 > - 🐰 [itch.io](https://sauttize.itch.io)
 > - 🐤 [twitter](https://twitter.com/sauttize)
 > - 🦚 [instagram](https://www.instagram.com/sauttze/)
+> - 🦀 [web portfolio](https://sauttize.github.io/)
 
 <!--
 **sauttize/sauttize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
